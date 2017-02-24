@@ -1,0 +1,53 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background: gainsboro;
+}
+
+.header ul {
+ padding: 0;
+ margin: 0;
+ list-style: none;
+}
+
+.header ul li {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.header ul li a {
+    padding: 15px 10px;
+    display: block;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.header ul li a:hover {
+    color: white;
+    background: #25a8e0;
+    transition: all 0.2s linear;
+}
+
+
+
+img {
+    width: 100%;
+}
+
+.bloque {
+    border-radius: 3px;
+    box-shadow: 1px 1px 6px #c8c8c8;
+    padding-bottom: 10px;
+    margin: 20px 0;
+}
+
+.bloque h3 {
+    color: #25a8e0;
+    text-transform: uppercase;
+    font-size: 13px;
+}
