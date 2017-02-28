@@ -125,4 +125,52 @@ body,html{
     color: #b7b3b3;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
+    margin-bottom: 62px;
+}
+.what-we-do .cuadrado{
+        background: #e1f3e1;
+        border-radius: 24px;
+        padding: 15px;
+        max-width: 169px;
+        display: inline-block;
+
+
+      
+}
+.what-we-do .cuadrado i{
+    color:#54d154;
+    font-size: 107px; 
+}
+.what-we-do .bloque{
+    text-align: center;
+}
+.what-we-do h5{
+    font-family: "Proxima Nova";
+    color: #828181;
+    font-size: 28px;
+    margin-top: 39px;
+    margin-bottom: 1px;
+
+}
+.what-we-do .bloque .camera {
+    color: #8c8b8b;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+
+
+}
+.what-we-do .bloque button{
+    border: none;
+    border-radius: 29px;
+    padding: 8px;
+    background: #54d154;
+    font-family: "Proxima Nova";
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    padding-right: 18px;
+    padding-left: 18px; 
+    margin-top: 16px;
+
 }
