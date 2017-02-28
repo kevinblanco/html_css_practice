@@ -64,8 +64,31 @@ body,html{
     font-family: "Proxima Nova";
     font-size: 22px;
     margin-top: 20px;
+}
 
+.search {
+    position: relative;
+}
 
+.search i{
+    color: white;
+    position: absolute;
+    top: 8px;
+    right: 23px;
+    color: #111111;
+}
 
+.search input {
+    border: none;
+    background: rgba(255,255,255,0.89);
+    color: #111111;
+    font-size: 16px;
+    border-radius: 25px;
+    padding: 4px 20px 4px 8px;
+    margin-top: 5px;
+    width: 100%;
+}
 
+.search input:focus {
+    outline: none;
 }
