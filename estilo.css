@@ -40,3 +40,32 @@ body,html{
 .header .menu ul li a.first{
     padding-left: 0;
 }
+
+.texto{
+    text-align: center;
+}
+.texto h1{
+    color: white;
+    text-align: center;
+    font-family: "Proxima Nova";
+    font-weight: bold;
+    font-size: 60px;
+    margin: 115px;
+    padding: 0px;
+    margin: 279px 0px 0px 0px
+    
+}
+.texto button{
+    border-radius: 24px;
+    background-color: #54d154;
+    color: white;
+    border: none;
+    padding: 13px 20px;
+    font-family: "Proxima Nova";
+    font-size: 22px;
+    margin-top: 20px;
+
+
+
+
+}
