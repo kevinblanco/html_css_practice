@@ -3,6 +3,8 @@ body,html{
     padding: 0;
 }
 
+
+/* ESTILOS DEL HEADER */
 .header {
     background: url('images/header-background.png') no-repeat top left;
     height: 100%;
@@ -91,4 +93,36 @@ body,html{
 
 .search input:focus {
     outline: none;
+}
+
+/* TERMINAN ESTILOS DEL HEADER */
+
+
+/* ESTILOS DEL WHAT WE DO */
+
+.what-we-do {
+    text-align: center;
+    padding: 45px 0;
+}
+
+.what-we-do h4{
+    font-family: 'Montserrat', sans-serif;
+    color: #828181;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+.what-we-do .line{
+    width: 43px;
+    background: #828181;
+    height: 2px;
+    display: inline-block;
+}   
+
+.what-we-do p{
+    color: #b7b3b3;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
 }
