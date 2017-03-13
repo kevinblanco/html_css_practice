@@ -260,3 +260,47 @@ body,html{
 .photo{
     margin-bottom: 20px;
 }
+
+.OUR-HAPPY-CLIENT {
+    text-align: center;
+    padding: 45px 0;
+    background: #f2f1f1;
+    margin: 80px 0px;
+}
+
+
+.OUR-HAPPY-CLIENT h4{
+    font-family: 'Montserrat', sans-serif;
+    color: #828181;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+.OUR-HAPPY-CLIENT .line{
+    width: 43px;
+    background: #828181;
+    height: 2px;
+    display: inline-block;
+}   
+
+.OUR-HAPPY-CLIENT p{
+    color: #b7b3b3;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 62px;
+}
+
+.see-all a{
+        text-decoration: none;
+        background:#dddcdc;
+        color: grey;
+        padding: 10px 25px;
+        font-family: 'Montserrat', sans-serif;
+        border-radius: 20px;
+        margin-top: 60px;
+        display: inline-block;
+
+}
+
