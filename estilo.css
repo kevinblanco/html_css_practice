@@ -416,6 +416,7 @@ body,html{
 
 .ABOUT-US{
     background: #333333;
+    padding-bottom: 45px;
 
 }
 
@@ -460,3 +461,158 @@ body,html{
     height: 2px;
     display: inline-block;
 }
+
+.ABOUT-US .image-container{
+    clear: both;
+}
+
+.ABOUT-US .imagenfirst{
+    float: left;
+    border-radius: 7px;
+    margin-top: 16px;
+}
+.ABOUT-US .Titulo-RECENT{
+     color: #dddddd;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.ABOUT-US .texto1{
+    font-size: 15px;
+    font-weight: lighter;
+    margin: 14px 5px 9px 5px;
+    float: left
+}
+
+.ABOUT-US .cuadrado2{
+    float: left;
+    margin-left: 5px;
+    background: #54d154;
+    border-radius: 3px;
+    display: inline;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: lighter;
+    padding: 2px;
+
+}
+
+.ABOUT-US .cuadrado3{
+    float: left;
+    margin-left: 5px;
+    background: #ffba00;
+    border-radius: 3px;
+    display: inline;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: lighter;
+    padding: 2px;
+}
+
+.ABOUT-US .cuadrado4{
+    float: left;
+    margin-left: 5px;
+    background: #2ba4eb;
+    border-radius: 3px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: lighter;
+    padding: 2px;
+    display: inline;
+}
+
+.ABOUT-US .cuadrado5{
+    float: left;
+    margin-left: 5px;
+    background: #f34d04;
+    border-radius: 3px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: lighter;
+    padding: 2px;
+     display: inline;
+}
+
+.ABOUT-US .cuadrado6{
+    float: left;
+    margin-left: 5px;
+    background: #ffba00;
+    border-radius: 3px;
+    display: inline;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: lighter;
+    padding: 2px;
+}
+
+.ABOUT-US .YOUR-NAME{
+    border: none;
+    color: #777777;
+    background: #444444;
+    padding-right: 128px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 7px;
+    float: left;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    outline: none;
+}
+.ABOUT-US .YOUR-EMAIL{
+    border: none;
+    color: #777777;
+    background: #444444;
+    padding-right: 128px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-top: 7px;
+    float: left;
+    margin-top: 3px;
+    font-family: 'Montserrat', sans-serif;
+    outline: none;
+}
+
+.ABOUT-US .YOUR-MESAGE{
+    border: none;
+    color: #777777;
+    background: #444444;
+    padding-right: 128px;
+    padding-left: 5px;
+    padding-bottom: 132px;
+    padding-top: 7px;
+    float: left;
+    margin-top: 3px;
+    font-family: 'Montserrat', sans-serif;
+    outline: none;
+}
+.ABOUT-US .boton2{
+    border: none;
+    padding: 7px 129px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background: #2b9b2b;
+    color: white;
+    margin-top: 3px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ABOUT-US .parrafocontact{
+    font-weight: lighter;
+    font-size: 14px;
+    margin-bottom: 28px;
+}
+
+
+.TESTIMONIALS .texto-testimonial{
+    color: black;
+    font-size: 14px;
+
+}
+
